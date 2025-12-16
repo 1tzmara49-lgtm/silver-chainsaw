@@ -1,0 +1,2 @@
+- Make videos clickable
+- Make search work
